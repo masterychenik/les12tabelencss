@@ -1,0 +1,98 @@
+header {
+    background-color: #ff00ff;
+    width: 100%;
+    height: 100px;
+}
+
+footer {
+    background-color: #9966ff;
+    width: 100%;
+    height: 100px;
+}
+
+table {
+    width: 200px;
+    height: 200px;
+    border-collapse: collapse;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+#cel11 {
+    background-color: red;
+    color: cornsilk;
+}
+
+#cel12 {
+    background-color: green;
+}
+
+#cel13 {
+    background-color: blue;
+    color: aquamarine;
+}
+
+#cel14 {
+    background-color: yellow;
+}
+
+#cel21 {
+    background-color: orange;
+     color:darkgreen
+}
+
+#cel22 {
+    background-color: purple;    
+}
+
+#cel23 {
+    background-color: pink;
+     color: blueviolet    
+}
+
+#cel24 {
+    background-color: grey;    
+}
+
+#cel31 {
+    background-color: brown;
+     color:aliceblue;    
+}
+
+#cel32 {
+    background-color: cyan;    
+}
+
+#cel33 {
+    background-color: magenta;
+     color:black
+    
+}
+
+#cel34 {
+    background-color: navy;    
+}
+
+#cel41 {
+    background-color: teal;
+     color:coral
+    
+}
+
+#cel42 {
+    background-color: maroon;    
+}
+
+#cel43 {
+    background-color: olive;
+     color: lightcoral    
+}
+
+#cel44 {
+    background-color: lime;
+    
+}
